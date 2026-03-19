@@ -18325,3 +18325,12 @@ Entries:
   id: 2021
   time: '2026-03-19T00:44:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3486
+- author: chuga-git
+  changes:
+    - type: Fix
+      message: >-
+        RPEDs no longer dump their components out instead of upgrading certain
+        machines.
+  id: 2022
+  time: '2026-03-19T05:33:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3474
