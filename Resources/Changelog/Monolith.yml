@@ -18573,3 +18573,12 @@ Entries:
   id: 2049
   time: '2026-03-21T21:37:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3510
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: >-
+        Makes Autopulser burst mode reasonable with a burst cooldown of 1
+        second.
+  id: 2050
+  time: '2026-03-21T22:11:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3511
