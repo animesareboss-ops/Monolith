@@ -18605,3 +18605,10 @@ Entries:
   id: 2053
   time: '2026-03-22T11:03:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3508
+- author: Lokilife
+  changes:
+    - type: Tweak
+      message: Heavy engine update
+  id: 2054
+  time: '2026-03-22T11:04:46.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3469
