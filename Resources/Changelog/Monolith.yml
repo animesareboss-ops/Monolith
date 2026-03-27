@@ -18913,3 +18913,10 @@ Entries:
   id: 2087
   time: '2026-03-27T05:49:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3524
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Hydrakin head displacement improved slightly
+  id: 2088
+  time: '2026-03-27T07:19:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3575
