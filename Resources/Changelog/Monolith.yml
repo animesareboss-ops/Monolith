@@ -19271,3 +19271,12 @@ Entries:
   id: 2125
   time: '2026-04-03T18:26:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3667
+- author: Ilya246
+  changes:
+    - type: Add
+      message: >-
+        ADCs now get piloting boosts (bonus acceleration, turn, max speed) to
+        give them an advantage over ADMs.
+  id: 2126
+  time: '2026-04-03T18:28:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3602
