@@ -19698,3 +19698,12 @@ Entries:
   id: 2174
   time: '2026-04-13T12:55:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3767
+- author: iramoye
+  changes:
+    - type: Tweak
+      message: >-
+        The 'Expanding and Repairing Station' subsection of the 'Engineering'
+        guidebook now mentions maintenance jacks as valid plating removal tools.
+  id: 2175
+  time: '2026-04-13T14:15:41.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3780
